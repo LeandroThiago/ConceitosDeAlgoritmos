@@ -1,8 +1,5 @@
 Algoritmo "exercicio1-slide8-repeticao"
-// Escreva um algoritmo que receba os valores
-//dos salários de todos os membros de uma
-//família e ao final, mostre quanto dinheiro a
-//família possui
+// Faça um algoritmo que conte de 0 a 100 e mostre cada um dos valores na tela
 Var
    cont: inteiro
 Inicio
