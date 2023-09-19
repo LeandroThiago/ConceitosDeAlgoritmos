@@ -5,7 +5,7 @@ Var
 Inicio
   cont <- 0
 
-  enquanto (cont <= 100) faca
+  enquanto (cont <= 10) faca
   escreval (cont)
 
   cont <- cont + 1
