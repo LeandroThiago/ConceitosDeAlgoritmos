@@ -1,6 +1,7 @@
-Algoritmo "Quest„o 03 - ContagemDeNumeros"
-// Disciplina  :  [Linguagem e LÛgica de ProgramaÁ„o] 
-// Professor   : Antonio Carlos Nicolodi 
+Algoritmo "Quest√£o 03 - ContagemDeNumeros"
+// Fa√ßa o fluxograma e pseudoc√≥digo para um programa que mostre a quantidade de
+// n√∫meros entre 1000 e 2000 e que, quando divididos por 11, produzam resto igual a 5.
+
 Var
    contador, numero: Inteiro
 
@@ -13,5 +14,5 @@ Inicio
       FimSe
    FimPara
 
-   Escreva("A quantidade de n˙meros entre 1000 e 2000 que, quando divididos por 11, produzem resto igual a 5 È: ", contador)
+   Escreva("A quantidade de n√∫meros entre 1000 e 2000 que, quando divididos por 11, produzem resto igual a 5 √©: ", contador)
 FimAlgoritmo
